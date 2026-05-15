@@ -6,7 +6,7 @@ Este proyecto evalúa si una regla de aprendizaje local de tres factores puede s
 
 ---
 
-## (a) Instrucciones de Instalación
+## Instrucciones de Instalación
 
 Para garantizar la reproducibilidad del entorno, se recomienda utilizar Python 3.9 o superior y crear un entorno virtual. Ejecuta los siguientes comandos en tu terminal:
 
